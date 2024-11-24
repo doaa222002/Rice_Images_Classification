@@ -6,3 +6,9 @@ There are numerous genetic variants of rice, one of the most extensively produce
 https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset/
 # Categories Of Rice 
 ![image](https://github.com/user-attachments/assets/83f05157-fe57-457c-83ca-145f4835203d)
+# Deep Learning model (Multi Layer Perceptron):
+MLP has been applied to classify the rice images.
+# Accuracy Of Training
+The training accuracy is: 0.9878
+# Accuracy Of Training
+The testing accuracy is: 0.9826
