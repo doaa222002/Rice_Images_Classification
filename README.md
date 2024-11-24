@@ -4,3 +4,5 @@ There are numerous genetic variants of rice, one of the most extensively produce
 
 # Datset Link
 https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset/
+# Categories Of Rice 
+![image](https://github.com/user-attachments/assets/83f05157-fe57-457c-83ca-145f4835203d)
